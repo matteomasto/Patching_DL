@@ -8,6 +8,6 @@ The structure of the repository is the following:
 **notebooks:** Jupyter notebooks for the handling of the model, the plotting of figures and assessment of model performances 
 
 
-I developped the package during my PhD at the University Grenoble - Alpes, in collaboration with the European Synchrotron Radiation Facility (ESRF) and the ENGAGE programme, partially funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement number 101034267.
+I developped the codes during my PhD at the University Grenoble - Alpes, in collaboration with the European Synchrotron Radiation Facility (ESRF) and the ENGAGE programme, partially funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement number 101034267.
 
 

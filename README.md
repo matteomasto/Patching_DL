@@ -5,7 +5,7 @@ This repository contains the codes and the instructions for the implementation u
 The structure of the repository is the following:  
 
 **- data:** BCDI files  
-**- models:** saved models for the inpainting of gaps with size of 3, 6, 9, 12 pixels  
+**- models:** saved weights of the models for the inpainting of gaps with size of 3, 6, 9, 12 pixels  
 **- notebooks:** Jupyter notebooks for the handling of the model, the plotting of figures and assessment of model performance  
 
 

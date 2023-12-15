@@ -9,8 +9,6 @@ The structure of the repository is the following:
 **- notebooks:** Jupyter notebooks for the handling of the model, the plotting of figures and assessment of model performance  
 **- src:** Jupyter notebooks for the creation/training of the models and for the application to entire BCDI patterns.
 
-Make sure that a Tensorflow 2.2.0 or newer version is installed on your machine.
-
 
 I developped the codes during my PhD at the University Grenoble - Alpes and at the ID01 beamline of the European Synchrotron Radiation Facility (ESRF-EBS). The PhD is also part of the ENGAGE programme, thus partially funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement number 101034267.
 
